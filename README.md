@@ -13,3 +13,4 @@
 | 美剧迷 | 剧集有源 | https://www.meijumi.top/?s=%s 
 | 磁力搜索 | 信息清晰，资源全，磁力链 | http://www.btmovi.city/so/%s.html 
 | 查片源 | 信息清晰，资源少，磁力链 | https://www.chapianyuan.com/?keyword=%s
+| 人人影视分享站 | 信息清晰，资源全，磁力链 | https://yyets.dmesg.app/search?keyword=%s 

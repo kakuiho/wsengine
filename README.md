@@ -8,7 +8,6 @@
 
 ## Watch Sources
 
-| 网站名 | 网址 | 推荐理由 |
-| ------|------|---------- |
-| BT电影天堂 | [ldytt.com](http://ldytt.com) | 老片有源 |
-| 美剧迷 | [meijumi.top](https://www.meijumi.top) | 剧集有源 | 
+| 网站名 | 网址 | 推荐理由 | 搜索链接 | 
+| ------|------|---------- |---------- |
+| 美剧迷 | [meijumi.top](https://www.meijumi.top) | 剧集有源 | https://www.meijumi.top/?s=%s

@@ -12,7 +12,6 @@
 | ------|------|---------- |
 | 美剧迷 | 剧集有源 | https://www.meijumi.top/?s=%s 
 | 磁力搜索 | 资源全，磁力链 | http://www.btmovi.city/so/%s.html 
-| 查片源 | 磁力链 | https://www.chapianyuan.com/?keyword=%s
 | 人人影视分享站 | 资源全，磁力链 | https://yyets.dmesg.app/search?keyword=%s 
 | 音范丝 | 高清片源，磁力链 | https://www.yinfans.me/?s=%s
 | 高清电台 | 磁力链 | https://gaoqing.fm/s.php?q=%s 

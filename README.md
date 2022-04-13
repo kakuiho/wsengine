@@ -15,3 +15,13 @@
 | 人人影视分享站 | 资源全，磁力链 | https://yyets.dmesg.app/search?keyword=%s 
 | 音范丝 | 高清片源，磁力链 | https://www.yinfans.me/?s=%s
 | 高清电台 | 磁力链 | https://gaoqing.fm/s.php?q=%s 
+
+## 兼容应用
+
+Edge 浏览器
+
+![图片](https://user-images.githubusercontent.com/61496907/163155182-acabb397-adfa-4833-9b87-3100a12509dc.png)
+
+Chrome 浏览器
+
+![图片](https://user-images.githubusercontent.com/61496907/163155274-1fae04fb-401c-42b4-95ac-3878d1a0d7b9.png)

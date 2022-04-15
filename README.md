@@ -18,10 +18,16 @@
 
 ## 兼容应用
 
-Edge 浏览器
+### 浏览器扩展
+
+- [伽马影迷插件](https://zhuanlan.zhihu.com/p/472267036)
+
+### 浏览器
+
+Edge 
 
 ![图片](https://user-images.githubusercontent.com/61496907/163155182-acabb397-adfa-4833-9b87-3100a12509dc.png)
 
-Chrome 浏览器
+Chrome
 
 ![图片](https://user-images.githubusercontent.com/61496907/163155274-1fae04fb-401c-42b4-95ac-3878d1a0d7b9.png)

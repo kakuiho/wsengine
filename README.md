@@ -6,7 +6,7 @@
 - 推荐信息包含：站名、网址和推荐理由；
 - 推荐网站支持 GET 请求搜索，一键直达页面不弹窗，不强制注册、实名。
 
-## 片源网站
+## 搜片源链接类网站
 
 | 网站名 | 推荐理由 | 搜索链接 | 
 | ------|------|---------- |
@@ -15,6 +15,14 @@
 | 人人影视分享站 | 资源全，磁力链 | https://yyets.dmesg.app/search?keyword=%s 
 | 音范丝 | 高清片源，磁力链 | https://www.yinfans.me/?s=%s
 | 高清电台 | 磁力链 | https://gaoqing.fm/s.php?q=%s 
+
+## 搜网盘类网站
+
+| 网站名 | 推荐理由 | 搜索链接 | 
+| ------|------|---------- |
+| 橘子盘搜 | 百度云盘,资源全 | https://www.nmme.cc/s/1/%s |
+| UP云搜 | 阿里云盘,资源全 | https://www.upyunso.com/search.html?keyword=%s |
+| 阿里盘搜 | 阿里云盘,资源全 | https://www.alipansou.com/search?k=%s |
 
 ## 兼容应用
 
